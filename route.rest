@@ -1,0 +1,10 @@
+PATCH  http://localhost:3000/skins/hey
+Content-Type: application/json
+
+{
+    "id": "test",
+    "texture": "hey.png",
+    "lightMap": "test.png",
+    "model": "test.json",
+    "doorModel": "test.json"
+}
